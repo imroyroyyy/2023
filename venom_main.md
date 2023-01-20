@@ -5,12 +5,19 @@
 - [x] Haseul tells them there is an imposter, and to keep watch.
 
 “We have at least one unauthorized personnel on board this ship,” Haseul says as she strolls into the cafeteria. She unlatches the clasp on her green suit, lifting the helmet to reveal her face, drawn with worry, bangs plastered to her forehead with sweat.
+
 Jungeun looks around at the rest of the crew, all looking just as baffled as she is. She fiddles with her own helmet on her lap, clicking the latch on the neck absentmindedly as she studies their faces. She’d known these people for weeks. There was no way—
+
 Jiwoo pipes up, eyes wide. “How do you know?” She looks scared, and Jungeun doesn’t blame her. She knows what had happened to Jiwoo’s mom—how she’d never come back from her own expedition. Jiwoo lived with her family after that. Jugeun scoots closer to Jiwoo. She was the only person she could trust. She knew Jiwoo. She was practically her sister.
+
 Haseul nods at her. “We have unusually high radiation readings in the—”
+
 “Hey guys, sorry.” Sooyoung jogs in, pulling her helmet off and shaking out her dark hair, pushing some of it out of her face and smearing her cheek with motor oil in the process. Jungeun blushes. How could someone be so attractive? “The lower engine had a loose bolt clanging around in it. Could have been really dangerous.”
+
 Haseul nods and gestures for her to sit. “Not a problem.”
+
 Sooyoung slides in next to Jungeun.
+
 “As I was saying, there were unusually high radiation readings in the med bay early this week, and although the body scans are anonymized, we do know someone here isn’t who they say.” She looks each of them in the eye, and Jungeun glances around herself, wondering who here was who they said they were. “I wouldn’t normally make a crew-wide announcement about something like this, but we’re running a skeleton crew on this leg of the trip, so I need all eyes out for a potential imposter.”
 
 ---
