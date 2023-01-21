@@ -27,7 +27,9 @@ Jinsol looks troubled after the meeting. “I don’t even know how a bolt could
 ---
 
 - [ ] Jungeun becoming more paraniod, having suspicious run-ins with everyone on the ship
-//TODO [what secrets do each of them have that lead them to be so suspicious?]
+
+//FIXME what secrets do each of them have that lead them to be so suspicious?
+
 - [ ] more suspicious run-ins with Sooyoung, admits that to Haseul, who asks her to keep an eye on sooyoung for her, she suspects her too. 
 
 ---
@@ -44,11 +46,13 @@ Vivi is smuggling illegal cargo. Haseul wants to make an intermediate landing at
 - [ ] Sooyoung hastily stuffs a dirty rag into her back pocket when Jungeun joins her in the upper engine, clearly startled and not prepared for company. Emergency meeting called five minutes later. Another death, **body #2**.
 - [ ] sooyoung: “you’re following me. why?”
 - [ ] jungeun can’t even call it a lie when she admits she is attracted to sooyoung, they hook up.
+- [ ] affair continues
 - [ ] Jinsol accuses her of getting distracted. “Haseul told you to watch her, not fuck her.”
 - [ ] jungeun: “why don’t you do it, then?”
 - [ ] Jinsol is avoidant, “I have my own assignment.”
 - [ ] Jiwoo is caught killing __body #3__, sent out of the airlock. Jungeun watches as her body bloats and explodes in the vaccum of space.
 - [ ] body scans, there’s still an imposter on the ship. They wonder if they made a mistake, but no, they couldn’t have. Jiwoo wasn’t human when they’d found her standing over the corpse. There were two imposters.
+- [ ] Jungeun ill with stress, goes to sooyoung's bunk to decompress
 
 ---
 
@@ -61,6 +65,18 @@ Vivi is smuggling illegal cargo. Haseul wants to make an intermediate landing at
 
 ---
 
+//TODO more plot here
+
+- [ ] sooyoung corners her, jungeun thinks she looks weird. they hook up anyway
+
+//TODO more plot here
+
+- [ ] __body 4__ is discovered
+
+---
+
 Sooyoung scrambles back after Jungeun removes her helmet. “You’re not Jungeun.”
 
 Jungeun steps towards her, eyes zeroing in on Sooyoung’s neck, pulse clear and rapid under her skin. “Yes, I am.”
+
+//FIXME figure out how to end this fic. Jungeun dies, sent out of the airlock.
