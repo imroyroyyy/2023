@@ -55,7 +55,7 @@ Jinsol watches the two of them from her seat at the table. She looks troubled. "
 
 Hyunjin's eyes light up. "Yes, I think that's what—"
 
-Vivi interrupts. "No. You're not permitted in the medbay until we have—" she clears her throat. There's no polite way to say 'dealt with the viscera.'
+Vivi interrupts. "No. You're not permitted in the medbay until we've—" she clears her throat. There's no polite way to say 'dealt with the viscera.'
 
 Jungeun feels Hyunjin's muscles coil, and that's how she knows to tighten her grip on her before Hyunjin can lunge at Vivi.
 
@@ -63,11 +63,11 @@ Jungeun feels Hyunjin's muscles coil, and that's how she knows to tighten her gr
 
 "Vivi," Jungeun starts. Maybe it *could* help—
 
-"No." Vivi shakes her head. "Trust me."
+"No." Vivi shakes her head. Then, softly, "Trust me."
 
-Vivi turns away after that, and slinks out of the room quietly. It's unlike her, but death weighs heavily on everyone.
+Vivi turns away after that, and slinks out of the room quietly.
 
-After she's gone, Junguen relaxes her grip on Hyunjin, who slumps aagain Jungeun before finding her legs. "I need to clear her bunk. She needs," Hyunjin shrugs. "Her family should be sent something at least."
+Junguen relaxes her grip on Hyunjin, who slumps against Jungeun before finding her legs. "I need to clear her bunk. She needs," Hyunjin shrugs. "Her family should be sent something at least."
 
 Jungeun nods. It's not her place. She hadn't known the two of them for long, but Heejin and Hyunjin had...orbited each other.
 
@@ -75,13 +75,13 @@ Jinsol speaks up when it's just the two of them left. “We use rivets in the re
 
 ---
 
+The atmosphere of the ship changes. Of course it does. This was supposed to be a straighforward supply mission
+
 - [ ] Jungeun becoming more paraniod, having suspicious run-ins with everyone on the ship
 
 //FIXME what secrets do each of them have that lead them to be so suspicious?
 
 ---
-
-Heejin
 
 Hyunjin
 
@@ -89,7 +89,7 @@ Haseul isn't where she's stationed when Junguen goes to look for her, evasive wh
 
 Vivi is smuggling illegal cargo. Haseul wants to make an intermediate landing at a planet on the way to carry out a full investigation but Vivi refuses. (Reasoning, there is no ballast to get back up into space. It has been replaced with the contraband.) Jungeun catches her talking to the recipients in the comms room in hushed, rapid Cantonese. Vivi looks startled to see her, and troubled when she realizes she has no idea how long Jungeun was there.
 
-Jinsol is stealing 
+Jinsol is fudging the inventory numbers 
 
 Sooyoung
 
@@ -101,21 +101,32 @@ Chaewon
 
 - [ ] more suspicious run-ins with Sooyoung, admits that to Haseul, who asks her to keep an eye on sooyoung for her, she suspects her too. 
 
+- Moving quickly through the ship: "I was running to the medbay because I felt unwell"
+- Being in an area where they don't belong: "I was lost and trying to find my way back to my quarters"
+- Being alone and not responding to communication attempts: "I was in the shower and couldn't hear my device"
+- Being near a victim's body without a logical reason: "I found the body while investigating a noise I heard"
+- Being nervous or acting suspiciously: "I was just anxious because I didn't want to be voted out"
+- Suddenly changing their story or alibi: "I must have misspoke earlier, I remember now I was in the engine room"
+- Being in possession of stolen items: "I found this item lying around and picked it up"
+- Having a different color than the rest of the crew: "I just changed my appearance for fun"
+- Being seen on security cameras in the vicinity of a murder: "I was just passing by, I didn't see anything suspicious"
+- Showing contradictory behavior: "I'm naturally a calm person, I didn't know how else to react in that situation"
+
 ---
 
-- [ ] Jungeun doesn’t have an alibi when **body #1** turns up and Sooyoung lies for her with no explanation, sending Jungeun into a tailspin.
+- [ ] Jungeun doesn’t have an alibi when **body #2** turns up and Sooyoung lies for her with no explanation, sending Jungeun into a tailspin.
 
 - [ ] Haseul is barely holding it together.  she hasn’t cleaned the blood off the knees of her suit yet, “You need to catch her in the act, Jungeun. I can’t do anything without proof.”
 
 - [ ] Sooyoung shows up in electrical from the cafeteria impossibly fast. Jungeun doesn’t see her on the way over.
-- [ ] Sooyoung hastily stuffs a dirty rag into her back pocket when Jungeun joins her in the upper engine, clearly startled and not prepared for company. Emergency meeting called five minutes later. Another death, **body #2**.
+- [ ] Sooyoung hastily stuffs a dirty rag into her back pocket when Jungeun joins her in the upper engine, clearly startled and not prepared for company.
 - [ ] sooyoung: “you’re following me. why?”
 - [ ] jungeun can’t even call it a lie when she admits she is attracted to sooyoung, they hook up.
 - [ ] affair continues
 - [ ] Jinsol accuses her of getting distracted. “Haseul told you to watch her, not fuck her.”
 - [ ] jungeun: “why don’t you do it, then?”
 - [ ] Jinsol is avoidant, “I have my own assignment.”
-- [ ] Jiwoo is caught killing __body #3__, sent out of the airlock. Jungeun watches as her body bloats and explodes in the vaccum of space.
+- [ ] Jiwoo is caught killing **body #3**, sent out of the airlock. Jungeun watches as her body bloats and explodes in the vaccum of space.
 - [ ] body scans, there’s still an imposter on the ship. They wonder if they made a mistake, but no, they couldn’t have. Jiwoo wasn’t human when they’d found her standing over the corpse. There were two imposters.
 - [ ] Jungeun ill with stress, goes to sooyoung's bunk to decompress
 
@@ -134,9 +145,12 @@ Chaewon
 
 - [ ] sooyoung corners her, jungeun thinks she looks weird. they hook up anyway
 
-//TODO more plot here
+Jungeun could lie to herself—claim she doesn't care how dangerous Sooyoung might be, doesn't care that every time they meet she could be inches from death—but the truth is worse. She knows it by the crawling heat beneath her skin. Sooyoung's danger makes it better.
 
-- [ ] __body 4__ is discovered. Jungeun doesn't have a chance of denying it's her. Sooyoung catches her with blood on her hands.
+- [ ] Jungeun falling for Sooyoung, defending her when haseul wants to send her out of the airlock.
+- [ ] Haseul confronting her afterwards. "You know it's her just as much as I do."
+
+- [ ] **body #4** is discovered. Jungeun doesn't have a chance of denying it's her. Sooyoung catches her with blood on her hands.
 
 Sooyoung scrambles back after Jungeun removes her helmet. “You’re not Jungeun.”
 
