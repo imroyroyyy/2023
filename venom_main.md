@@ -93,7 +93,7 @@ Hyunjin is in grief.
 
 Haseul isn't where she's stationed when Jungeun goes to look for her, evasive when Jungeun asks her where she was.
 
-Vivi is smuggling illegal cargo. Haseul wants to make an intermediate landing at a planet on the way to carry out a full investigation but Vivi refuses. (Reasoning, there is no ballast to get back up into space. It has been replaced with the contraband.) Jungeun catches her talking to the recipients in the Comms room in hushed, rapid Cantonese. Vivi looks startled to see her, and troubled when she realizes she has no idea how long Jungeun was there.
+Vivi is smuggling illegal cargo. Haseul wants to make an intermediate landing at a planet on the way to carry out a full investigation but Vivi refuses. (There is no extra fuel to leave the atmosphere to get back up into space. It has been replaced with the contraband.)
 
 Jinsol is fudging the inventory numbers 
 
