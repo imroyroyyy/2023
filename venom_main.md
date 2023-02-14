@@ -3,7 +3,7 @@
 - [x] Introduce crew, at least Loona unnie line, maybe more of them, captain Haseul (green), each wearing their respective color.
 - [x] establish Jungeun’s attraction to Sooyoung, who arrives late to the meeting.
 - [x] Haseul tells them there is an imposter, and to keep watch.
-- [ ] Heejin is found dead in electrical during the shift change. Everyone is called for an emergency meeting.
+- [x] Heejin is found dead in electrical during the shift change. Everyone is called for an emergency meeting.
 
 Jungeun wakes up in a panic at the sound of the siren before being blinded by the flashing red light right above her bed. She covers her ears and squeezes her eyes shut, trying to orient herself. She pats around the table next to her bunk for her glasses and slips them on before standing, covering her ears again when the siren gets louder.
 
@@ -87,11 +87,9 @@ The atmosphere of the ship changes. Of course it does. This was supposed to be a
 
 - [ ] Jungeun becoming more paranoid, having suspicious run-ins with everyone on the ship
 
-//FIXME what secrets do each of them have that lead them to be so suspicious?
-
 ---
 
-Hyunjin
+Hyunjin is in grief.
 
 Haseul isn't where she's stationed when Jungeun goes to look for her, evasive when Jungeun asks her where she was.
 
@@ -99,11 +97,12 @@ Vivi is smuggling illegal cargo. Haseul wants to make an intermediate landing at
 
 Jinsol is fudging the inventory numbers 
 
-Sooyoung
-
 Jiwoo always seems to find Jungeun before Jungeun can find her.
 
-Chaewon
+Sooyoung...sus in general
+
+Chaewon — Maybe an affair with Heejin? something she can't come clean about, doesn't want to sully Heejin's memory.
+- Chaewon is on the cameras in the vicinity of Heejin's murder: "I was just passing by, I didn't see anything suspicious. That's my route to Navigation." The first one people suspect.
 
 ---
 
@@ -121,60 +120,58 @@ Chaewon
 
 ---
 
-
-
----
-
-- [ ] suspicious run-ins with Sooyoung, reports them to Haseul, but feels guilty. She's trying to figure out why Sooyoung had lied for her.
+- [ ] more suspicious run-ins with Sooyoung, reports them to Haseul, but feels guilty. She's trying to figure out why Sooyoung lied for her.
 
 - [ ] Haseul is uncharacteristically tense. “You need to catch her in the act, Jungeun. I can’t do anything without proof.” Jungeun doesn't think Sooyoung did it, but she 'd rather have something to do to take her mind off of the danger, so she agrees to follow Sooyoung.
 
 - [ ] Sooyoung shows up in electrical from the cafeteria impossibly fast. Jungeun doesn’t see her on the way over.
 - [ ] Sooyoung hastily stuffs a dirty rag into her back pocket when Jungeun joins her in the upper engine, clearly startled and not prepared for company.
 - [ ] Sooyoung: “you’re following me. why?”
-- [ ] Jungeun can’t even call it a lie when she admits she is attracted to sooyoung, they hook up.
+- [ ] Jungeun can’t even call it a lie when she admits she is attracted to Sooyoung, they hook up.
 - [ ] affair continues
 - [ ] Jinsol accuses her of getting distracted. “Haseul told you to watch her, not fuck her.”
 - [ ] Jungeun: “why don’t you do it, then?”
 - [ ] Jinsol is avoidant, “I...have my own assignment.”
-//FIXME What is Jinsol's assignment?
-- [ ] Jiwoo is caught killing **body #2**, sent out of the airlock. Jungeun watches as her body bloats and explodes in the vacuum of space.
-- [ ] After Jiwoo is booted, Hyunjin comes into Jungeun's room to comfort her even though it's clear Jiwoo killed Heejin. They’ve both lost someone. Jungeun kisses Hyunjin because her emotions are all over the place. Then pulls away when she hears shoes squeak right outside her open door. She sees a flash of maroon suit disappear around the corner. The next day, Hyunjin is dead.
+
+---
+
+- [ ] Jiwoo is caught killing **Jinsol**, sent out of the airlock. Jungeun watches as her body bloats and explodes in the vacuum of space.
+- [ ] After Jiwoo is booted, Hyunjin comes into Jungeun's room to comfort her even though it's clear Jiwoo killed Heejin. They’ve both lost someone. Jungeun kisses Hyunjin because her emotions are all over the place. Then pulls away when she hears shoes squeak right outside her open door. She sees a flash of maroon suit disappear around the corner. The next day, **Hyunjin** is dead.
 - [ ] Jungeun ill with stress, goes to Sooyoung's bunk to decompress. She tries not to think about the flash of maroon hours before Hyunjin was killed.
 
 ---
 
-- [ ] Haseul is destroyed in the wake of Jiwoo. [plant hints that Jiwoo and Haseul might have been involved earlier]. She doesn’t sleep. Just paces the ship. 
+- Unexpectedly, Chaewon is the most rocked by Hyunjin's death.
+
+---
+
+- [ ] Haseul is destroyed in the wake of Jiwoo. [plant hints that Jiwoo and Haseul might have been involved earlier]. She doesn’t sleep. Just paces the ship.
 - [ ] Jungeun finds her hiding in storage when the lights go out. Jungeun doesn't know if it's sabotage or due to one of their electrical team being dead. 
 - [ ] “I should have done something. It’s my fault.”
 - [ ] Jungeun stares at her, slow realization creeping in, “Haseul did you…know that Jiwoo was—”
 - [ ] Haseul stares up at her, eyes hollow. She doesn’t need to say anything at all.
 - [ ] The next day, she silently passes her captain’s rank to Vivi.
+- [ ] Chaewon asks Jungeun what happened. Jungeun just shakes her head.
 
 ---
 
-//TODO more plot here
-
 - [ ] Sooyoung is accused of being an imposter again, she brushes it off with, "I was in the shower and couldn't hear my device." Jungeun knows she's right—she was in there with her, but her defense gets caught in her throat and she avoids Sooyoung's eyes when she stares at her, waiting for her to speak up.
-
 - [ ] Jungeun could lie to herself—claim she doesn't care how dangerous Sooyoung might be, doesn't care that every time they meet she could be inches from death—but the truth is worse. She knows it by the crawling heat beneath her skin. Sooyoung's danger makes it better.
-
 - [ ] Jungeun falling for Sooyoung, defending her when Haseul wants to send her out of the airlock.
 - [ ] Haseul confronting her afterwards. "You know it's her just as much as I do."
 
-- [ ] **body #4** is discovered. Jungeun doesn't have a chance of denying it's her. Sooyoung catches her with blood on her hands.
+---
+
+- Jungeun confronts Chaewon about being in electrical regularly. "You're always here. What? Returning to the scene of the crime?"
+- Chaewon stares at her, horrified before denying it. "It's not like that. It's...I miss her." Avoidant. "I think it was my fault. I wasn't in security, and she was here much later than she should have—"
+- Jungeun understands.
+
+---
+
+- [ ] **Chaewon** is discovered. Jungeun doesn't have a chance of denying it's her. Sooyoung catches her with blood on her hands.
 
 Sooyoung scrambles back after Jungeun removes her helmet. “You’re not Jungeun.”
 
 Jungeun steps towards her, eyes zeroing in on Sooyoung’s neck, pulse clear and rapid under her skin. “Yes, I am.”
 
-//FIXME Figure out exact ending. Jungeun sent out of airlock.
-
-
-
----
-
-to use later maybe
-
-- Sooyoung is on the cameras in the vicinity of Heejin's murder: "I was just passing by, I didn't see anything suspicious. That's my route to the engines."
-- Sooyoung switches up her story: "No? I was in the engine room."
+//TODO Figure out exact ending. Jungeun sent out of airlock.
