@@ -102,11 +102,32 @@ Jiwoo always seems to find Jungeun before Jungeun can find her.
 Sooyoung...sus in general
 
 Chaewon — Maybe an affair with Heejin? something she can't come clean about, doesn't want to sully Heejin's memory.
+
 - Chaewon is on the cameras in the vicinity of Heejin's murder: "I was just passing by, I didn't see anything suspicious. That's my route to Navigation." The first one people suspect.
 
 ---
 
 - [ ] Jungeun is caught on the security cameras moving quickly away from electrical when the lights go out suddenly, and Sooyoung lies for her with no explanation, sending Jungeun into a tailspin. "I radioed her because I needed a hand with some spot welding."
+
+"Why did you do that?" Jungeun hisses, whirling on Sooyoung as soon as Chaewon is out of earshot. 
+
+Sooyoung puts her hands up placatingly, eyebrows raised. "Woah, what about a thank you?"
+
+"Thanks," Jungeun dismisses. "But why?"
+
+Sooyoung shrugs. There's a smudge of grease on her face. In fact. Jungeun isn't sure she's ever seen Sooyoung without a smudge of something on her face. "I didn't think it was you. So was it?" She asks like it's simple. Like she's just allowed to do that. Like it's not strange and wouldn't implicate them both if Jungeun says yes.
+
+"No," Jungeun says. "You know I'm in security this shift. You saw me on your way in."
+
+Sooyoung thinks about it for a second and shrugs. "Maybe?" She steps closer. "Listen. You don't think I did it, right?"
+
+She looks worried. Jungeun's not sure she's ever seen Sooyoung look worried before. Usually, she's the one cracking jokes and poking fun. Not the type to be at the center of a conspiracy to take down a cargo mission. Still, the dark circles under her eyes and the heavy droop of her shoulders in the days since make her look haunted. Jungeun wonders if she should tell Haseul about this conversation. "No." Jungeun shakes her head. "I know it wasn't you." She worries it sounds like a lie.
+
+Sooyoung seems to be satisfied, though. Her posture relaxes. "You're the only one, I think." She laughs softly, but it comes out bitter. "I don't even know what it is about me that makes people think—" She trails off.
+
+She looks sad. Like all her jokes and friendly attitude and taking the shitty cleaning jobs had been for nothing. Like all of the friends she'd made had been fake. Maybe that's why Jungeun draws her into a kiss.
+
+Sooyoung sinks into it, hands coming up to cup Jungeun's jaw. She's so gentle as she presses Jugneun against the wall of the lower engine. Jungeun tries to imagine Sooyoung killing with these hands. She can't.
 
 ---
 
@@ -162,7 +183,12 @@ Chaewon — Maybe an affair with Heejin? something she can't come clean about, d
 
 ---
 
-- Jungeun confronts Chaewon about being in electrical regularly. "You're always here. What? Returning to the scene of the crime?"
+Jungeun find Chaewon in electrical for a third time in a week.
+
+- Jungeun confronts Chaewon about being in electrical regularly. 
+
+"You're always here. What? Returning to the scene of the crime?"
+
 - Chaewon stares at her, horrified before denying it. "It's not like that. It's...I miss her." Avoidant. "I think it was my fault. I wasn't in security, and she was here much later than she should have—"
 - Jungeun understands.
 
@@ -170,8 +196,24 @@ Chaewon — Maybe an affair with Heejin? something she can't come clean about, d
 
 - [ ] **Chaewon** is discovered dead. Jungeun doesn't have a chance of denying it's her. Sooyoung catches her with blood on her hands.
 
-Sooyoung scrambles back after Jungeun removes her helmet. “You’re not Jungeun.”
+Jungeun shouldn't even be out this late. She knows what it will look like if she's caught. No one was free from suspicion now. She cuts through the lower engine to security, and she can hear Sooyoung hammering away at something in the reactor, her muffled cursing not muffled by the thin metal walls.
 
-Jungeun steps towards her, eyes zeroing in on Sooyoung’s neck, pulse clear and rapid under her skin. “Yes, I am.”
+Chaewon is crouched over the video screens in security muttering about something. 
+
+Jungeun isn't expecting Chaewon's scream. She slaps her hand over Chaewon's mouth a moment too late. The metal walls carry sound far too well, and the sound of Sooyoung's hammer stops.
+
+Jungeun stares down at Chaewon's body, betrayed. No one else had done that. Why did she have to do that when Jungeun had been so close? She glances at the air vent in the corner, only taking a single step towards it before Sooyoung gasps at the scene.
+
+It's not like Jungeun can deny it. Chaewon's blood is smeared down the front of her bright red jumpsuit. 
+
+Sooyoung trips over her own feet and falls back into the doorway to the hall. Her gloved hands leave streaks of grease on the floor as she scrambles back up to her feet, eyes locked on Jungeun. "You—"
+
+Jungeun releases the latch on her helmet. Sooyoung deserved that much. It's not like she'd faked her affection for her.
+
+"You're not Jungeun."
+
+Jungeun frowns. Her eyes zero in on Sooyoung's throat as she swallows. “Yes, I am.” She can hear Sooyoung's heart racing, see the steady flow of blood through the artery on her neck. She'd be a sprayer if Jungeun killed her now, and Jungeun didn't want to be on cleaning duty again in the morning. Still, she had to survive, so she lunges for Sooyoung.
+
+Jungeun's fingers graze the material of Sooyoung's jumpsuit before she 
 
 //TODO Figure out exact ending. Jungeun sent out of airlock.
